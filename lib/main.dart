@@ -46,6 +46,7 @@ class ProfileScreen extends StatelessWidget {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
+              
               // Avatar
               Container(
                 width: 96,
